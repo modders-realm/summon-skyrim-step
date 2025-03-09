@@ -1,0 +1,4 @@
+{ // This is a JSON5 config file; pure JSON is fine too
+
+	dependencies: ['modders-realm/summon-skyrim-root']
+}
